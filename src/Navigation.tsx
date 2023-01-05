@@ -27,10 +27,10 @@ const Navigation = (): JSX.Element => {
         >
           {t('Documentation')}
         </a>
-        <Link href="/styleguide">
+        <Link href="/people/styleguide">
           <a className="p-2 text-dark">{t('Styleguide')}</a>
         </Link>
-        <Link href="/graphql">
+        <Link href="/people/graphql">
           <a className="p-2 text-dark">{t('GraphQL')}</a>
         </Link>
       </nav>
