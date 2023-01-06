@@ -19,7 +19,8 @@ const Navigation = (): JSX.Element => {
         </Link>
       </h5>
       <nav className="my-2 my-md-0 mr-md-3">
-        <span>Hosted in Vercel///</span><a
+        <span>Hosted in Vercel+++</span>
+        <a
           className="p-2 text-dark"
           href="https://jss.sitecore.com"
           target="_blank"
